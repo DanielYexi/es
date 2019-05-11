@@ -1,4 +1,4 @@
-坐下一下更新
+坐下一下更新，你疯了吧
 <a href="http://zhangkaitao.github.io/es/" target="_blank">项目首页</a>
 |
 <a href="http://jinnianshilongnian.iteye.com/" target="_blank">我的博客</a> | <a href="http://url.cn/MViZN0">点击加134755960 QQ群讨论</a> | <a href="http://demo.kaifazhe.me/es/admin/index" target="_blank">演示地址（感谢134755960群友Panda支持）</a>(admin/123456 请不要执行增删改操作 谢谢)
